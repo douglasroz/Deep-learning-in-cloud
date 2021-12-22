@@ -52,6 +52,8 @@ Last updated : 11 August 2021
 | 37 | Vast.ai | https://vast.ai | [pricing :label: ](https://vast.ai/console/create/) | - |
 | 38 | Vector Dash (gaming) | https://vectordash.com | - | Free 7 day plan |
 | 39 | vscaler | https://www.vscaler.com | [On Request](https://www.vscaler.com/private-cloud-appliance/) | - |
+| 40 | Fury | https://furybyte.com/ | [pricing :label: ](https://furybyte.com/) | - |
+
 
 
 # Deploy your model as a Web app
